@@ -1,0 +1,19 @@
+1. Hai cách thực hiện
+
+Cách 1: dùng GUI, click chuột phải r New Folder r nhập tên thư mục. Cách này phải lặp lại 50 lần nên lâu
+
+Cách 2: dùng CLI PowerShell để tạo nhiều thư mục cùng lúc. Cách này nhanh hơn và có thể tự động hóa.
+
+2. So sánh
+
+GUI dễ học và phù hợp với người mới nhưng tốc độ chậm, khó tự động hóa.
+
+CLI có tốc độ nhanh, dễ lặp lại và tự động hóa, tuy nhiên người mới cần làm quen với câu lệnh.
+
+3. Lựa chọn
+
+Em chọn CLI PowerShell vì dự án cần tạo 50 thư mục trong thời gian chỉ 1 giờ. CLI giúp tiết kiệm thời gian, giảm thao tác thủ công và hạn chế sai sót khi tạo nhiều thư mục.
+
+4. Ví dụ
+
+mkdir Ban, Kho, Menu
